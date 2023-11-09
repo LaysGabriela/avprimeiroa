@@ -1,1 +1,25 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(251, 234, 107);   
+}
 
+body {
+background-color: rgb(0, 0, 0);
+}
+ .gato{
+    width: 20%;
+    height: 20%;
+}
+P{
+ text-align: center;
+ font-size: 30px ;   
+ color: rgb(251, 234, 107);
+}
+.button{
+background-color: aliceblue;
+text-align: center;
+border: none;
+display: inline-block;
+padding: 10px 20px;
+cursor: pointer;
