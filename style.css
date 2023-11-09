@@ -16,6 +16,7 @@ P{
  font-size: 30px ;   
  color: rgb(251, 234, 107);
 }
+
 .button{
 background-color: aliceblue;
 text-align: center;
@@ -23,3 +24,4 @@ border: none;
 display: inline-block;
 padding: 10px 20px;
 cursor: pointer;
+}
